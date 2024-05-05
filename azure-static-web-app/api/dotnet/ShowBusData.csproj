@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>netcoreapp6.1</TargetFramework>
+    <TargetFramework>netcoreapp6.0</TargetFramework>
     <AzureFunctionsVersion>v3</AzureFunctionsVersion>
     <RootNamespace>ShowBusData</RootNamespace>
     <AssemblyName>ShowBusData</AssemblyName>
